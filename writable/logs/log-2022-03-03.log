@@ -1,0 +1,194 @@
+CRITICAL - 2022-03-03 07:55:07 --> Undefined variable: data
+#0 E:\xampp\htdocs\app_cafe_casey\app\Views\menulist.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\xampp\\htdocs...', 29, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('menulist', Array, true)
+#4 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Menucontroller.php(14): view('menulist', Array)
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#6 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#7 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-03 07:58:49 --> Class 'App\Models\LaporanModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\PesananController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 07:58:51 --> Class 'App\Models\LaporanModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\PesananController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 07:59:03 --> Class 'App\Models\LaporanModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\PesananController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 07:59:26 --> Class 'App\Models\LaporanModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\PesananController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 18:55:39 --> Class 'App\Models\LaporanModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\PesananController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 19:06:51 --> Class 'App\Models\LaporanModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\PesananController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2022-03-03 19:08:26 --> Unknown column 'tanggal' in 'field list'
+CRITICAL - 2022-03-03 19:08:26 --> Unknown column 'tanggal' in 'field list'
+#0 E:\xampp\htdocs\app_cafe_casey\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 E:\xampp\htdocs\app_cafe_casey\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 E:\xampp\htdocs\app_cafe_casey\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 E:\xampp\htdocs\app_cafe_casey\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 E:\xampp\htdocs\app_cafe_casey\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(93): CodeIgniter\Model->insert(Array)
+#8 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#9 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#10 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-03-03 19:11:49 --> Undefined property: App\Controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\xampp\\htdocs...', 104, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 19:17:02 --> Undefined property: App\Controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\xampp\\htdocs...', 104, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 19:22:28 --> Undefined property: App\Controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\xampp\\htdocs...', 104, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 19:31:22 --> Undefined property: App\Controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\xampp\\htdocs...', 104, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 19:47:41 --> Undefined index: password
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Usercontroller.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\xampp\\htdocs...', 72, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Usercontroller->login()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usercontroller))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 19:58:41 --> Undefined property: App\Controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\xampp\\htdocs...', 104, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 20:00:33 --> Trying to access array offset on value of type null
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'E:\\xampp\\htdocs...', 46, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->addCart()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 20:00:48 --> Trying to access array offset on value of type null
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'E:\\xampp\\htdocs...', 46, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->addCart()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 20:01:13 --> Trying to access array offset on value of type null
+#0 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'E:\\xampp\\htdocs...', 46, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->addCart()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-03 20:14:05 --> Class 'App\Controllers\PesananModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\LaporanController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 20:17:45 --> Class 'App\Controllers\PesananModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\LaporanController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 20:21:13 --> Class 'App\Controllers\PesananModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\LaporanController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 20:21:32 --> Class 'App\Controllers\PesananModel' not found
+#0 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(802): App\Controllers\LaporanController->__construct()
+#1 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-03 23:33:10 --> Undefined index: user_id
+#0 E:\xampp\htdocs\app_cafe_casey\app\Views\laporanlist.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\xampp\\htdocs...', 22, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('LaporanList', Array, true)
+#4 E:\xampp\htdocs\app_cafe_casey\app\Controllers\laporancontroller.php(17): view('LaporanList', Array)
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\LaporanController->tampil()
+#6 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanController))
+#7 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-03 23:33:47 --> Undefined index: tgl
+#0 E:\xampp\htdocs\app_cafe_casey\app\Views\laporanlist.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\xampp\\htdocs...', 23, Array)
+#1 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('LaporanList', Array, true)
+#4 E:\xampp\htdocs\app_cafe_casey\app\Controllers\laporancontroller.php(17): view('LaporanList', Array)
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\LaporanController->tampil()
+#6 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanController))
+#7 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#10 {main}

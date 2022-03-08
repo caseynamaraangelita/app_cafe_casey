@@ -1,0 +1,70 @@
+CRITICAL - 2022-03-05 01:12:45 --> There is no data to insert.
+#0 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(94): CodeIgniter\Model->insert(Array)
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-05 01:12:53 --> There is no data to insert.
+#0 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(94): CodeIgniter\Model->insert(Array)
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-05 01:13:26 --> There is no data to insert.
+#0 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(94): CodeIgniter\Model->insert(Array)
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-05 01:15:26 --> There is no data to insert.
+#0 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(94): CodeIgniter\Model->insert(Array)
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-05 01:17:26 --> There is no data to insert.
+#0 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(94): CodeIgniter\Model->insert(Array)
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-05 01:25:57 --> There is no data to insert.
+#0 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(94): CodeIgniter\Model->insert(Array)
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-05 01:38:48 --> There is no data to insert.
+#0 E:\xampp\htdocs\app_cafe_casey\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Pesanancontroller.php(94): CodeIgniter\Model->insert(Array)
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}

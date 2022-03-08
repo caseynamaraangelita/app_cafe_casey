@@ -1,0 +1,620 @@
+CRITICAL - 2022-01-30 01:12:39 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:14:48 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:14:48 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:14:49 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:16:23 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:16:34 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:16:39 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:16:47 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:16:54 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:22:32 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:40 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:40 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:41 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:41 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:41 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:41 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:41 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:42 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:42 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:23:43 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:26:39 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:26:40 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:11 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:12 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:12 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:12 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:13 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:13 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:13 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:30:13 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:22 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:23 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:23 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:23 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:23 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:23 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:24 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:24 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:24 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:24 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:24 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:25 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:25 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:25 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:26 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:31:26 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:17 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:18 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:18 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:18 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:19 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:19 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:19 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:19 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:20 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:20 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:32:20 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:33:04 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_caseyy')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:33:17 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:38:10 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 01:44:26 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_cafe_casey')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-30 03:14:31 --> Invalid file: dashboard.php
+#0 E:\xampp\htdocs\app_cafe_casey\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 E:\xampp\htdocs\app_cafe_casey\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 E:\xampp\htdocs\app_cafe_casey\app\Controllers\Home.php(13): view('dashboard')
+#3 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('app_laundray_ca...')
+#4 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\xampp\htdocs\app_cafe_casey\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\app_cafe_casey\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\xampp\htdocs\app_cafe_casey\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#8 {main}
